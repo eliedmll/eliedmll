@@ -8,9 +8,9 @@ l’administration des systèmes et réseaux plus efficace et sécurisée.
 
 Mon parcours professionnel et mes formations incluent :
 
-    **TED** - Technicien en Electricité et Domotique
-    **TSSR** - Technicien Supérieur en Systèmes et Réseaux
-    **AIS** - Administrateur d’Infrastructures Sécurisées
+    TED - Technicien en Electricité et Domotique
+    TSSR - Technicien Supérieur en Systèmes et Réseaux
+    AIS - Administrateur d’Infrastructures Sécurisées
 
 **Ce que je propose sur GitHub**
 
