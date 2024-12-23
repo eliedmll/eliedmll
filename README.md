@@ -6,12 +6,6 @@ Je m'appelle Élie, administrateur système et réseaux de 32 ans, originaire de
 Passionné par l'informatique, je souhaite découvrir des scripts ou outils qui permettent de rendre 
 l’administration des systèmes et réseaux plus efficace et sécurisée. 
 
-Mon parcours professionnel et mes formations incluent :
-
-    TED - Technicien en Electricité et Domotique
-    TSSR - Technicien Supérieur en Systèmes et Réseaux
-    AIS - Administrateur d’Infrastructures Sécurisées
-
 **Ce que je propose sur GitHub**
 
 Je partage ici une variété de scripts PowerShell, Bash, Python conçus pour l’administration système et réseaux. 
