@@ -2,8 +2,8 @@
 
 **À propos de moi**
 
-Je m'appelle Élie, administrateur système et réseaux de 32 ans, originaire de France. 
-Passionné par l'informatique, je souhaite découvrir des scripts ou outils qui permettent de rendre 
+Je m'appelle Élie, administrateur système et réseaux de 33 ans, originaire de France. 
+Passionné par l'informatique, je souhaite découvrir des outils qui permettent de rendre 
 l’administration des systèmes et réseaux plus efficace et sécurisée. 
 
 **Ce que je propose sur GitHub**
