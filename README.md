@@ -2,7 +2,7 @@
 
 **À propos de moi**
 
-Je m'appelle Élie, administrateur système et réseaux de 33 ans, originaire de France. 
+Je m'appelle Élie, administrateur système et réseaux de 34 ans, originaire de France. 
 Passionné par l'informatique, je souhaite découvrir des outils qui permettent de rendre 
 l’administration des systèmes et réseaux plus efficace et sécurisée. 
 
